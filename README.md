@@ -12,7 +12,7 @@ This project is to add the following security and DevOps functions on an existin
       
       ![image](https://user-images.githubusercontent.com/23166741/233114652-17ed3e0f-d35f-42f3-afc9-206398f33fc7.png)
       
-      **Tomcat and Jenkins Server are hosted in Docker Container**
+      **Tomcat and Jenkins Server are hosted in Docker Container on Amazon EC2**
       
       ![image](https://user-images.githubusercontent.com/23166741/233115676-ba060a02-21a3-4506-be87-c7c866b4edc5.png)
       
