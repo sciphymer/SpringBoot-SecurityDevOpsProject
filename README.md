@@ -1,4 +1,4 @@
-# Spring Boot Ecommerce Project
+# Spring Boot Security DevOps Project
 
 This project is to add the following security and DevOps functions on an existing eCommerce backend application:
 * Handling of user authorization with proper security using JWT with Spring Security.
